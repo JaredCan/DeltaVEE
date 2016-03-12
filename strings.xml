@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Delta VEE</string>
+    <string name="ISP">ISP in Vacuum</string>
+    <string name="WeightFull">Weight when fueled</string>
+    <string name="WeightEmpty">Empty Weight</string>
+    <string name="buttonSubmit">Calculate!</string>
+    <string name="deltaVee">Total change in velocity:</string>
+    <string name="addStage">Add Another Stage</string>
+    <string name="newRocket">Start Over</string>
+    <string name="ms">m/s</string>
+    <string name="switchButtonVEx">Switch to Exhaust Velocity</string>
+    <string name="switchButtonIsp">Switch to ISP</string>
+    <string name="editTextVEx">Exhaust Velocity</string>
+</resources>
